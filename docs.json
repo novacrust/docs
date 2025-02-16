@@ -44,7 +44,22 @@
             ]
           },
           {
-            "group": "Endpoint Examples",
+            "group": "Authentication",
+            "pages": [
+              "api-reference/endpoint/get",
+              "api-reference/endpoint/create",
+              "api-reference/endpoint/delete"
+            ]
+          },
+          {
+            "group": "Customer",
+            "pages": [
+              "api-reference/endpoint/customer/update",
+              "api-reference/endpoint/customer/create"
+            ]
+          },
+          {
+            "group": "Cards",
             "pages": [
               "api-reference/endpoint/get",
               "api-reference/endpoint/create",
